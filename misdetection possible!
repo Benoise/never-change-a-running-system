@@ -1,0 +1,37 @@
+> C:\Program Files (x86)\WinFF>title Converting
+> american.vandal.s02e04.german.dl.1080p.web.x264-bigint.mkv (1/1)
+>
+> C:\Program Files (x86)\WinFF>"C:\FFmpeg\bin\ffmpeg.exe" -y -i
+> "F:\american.vandal.s02e04.german.dl.1080p.web.x264-bigint.mkv" -c c
+> opy
+> "C:\Users\eEncoder\Documents\american.vandal.s02e04.german.dl.1080p.web.x264-bigint.mp4"
+> ffmpeg version N-91960-g63c69d51c7 Copyright (c) 2000-2018 the FFmpeg
+> developers
+>   built with gcc 8.2.1 (GCC) 20180813
+>   configuration: --enable-gpl --enable-version3 --enable-sdl2 --enable-
+> fontconfig --enable-gnutls --enable-iconv --enable-libass -
+> -enable-libbluray --enable-libfreetype --enable-libmp3lame --enable-
+> libopencore-amrnb --enable-libopencore-amrwb --enable-libopenj
+> peg --enable-libopus --enable-libshine --enable-libsnappy --enable-
+> libsoxr --enable-libtheora --enable-libtwolame --enable-libvpx
+> --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265
+> --enable-libxml2 --enable-libzimg --enable-lzma --enable-zl
+> ib --enable-gmp --enable-libvidstab --enable-libvorbis --enable-libvo-
+> amrwbenc --enable-libmysofa --enable-libspeex --enable-libxv
+> id --enable-libaom --enable-libmfx --enable-amf --enable-ffnvcodec
+> --enable-cuvid --enable-d3d11va --enable-nvenc --enable-nvdec -
+> -enable-dxva2 --enable-avisynth
+>   libavutil      56. 19.101 / 56. 19.101
+>   libavcodec     58. 30.100 / 58. 30.100
+>   libavformat    58. 18.101 / 58. 18.101
+>   libavdevice    58.  4.103 / 58.  4.103
+>   libavfilter     7. 31.100 /  7. 31.100
+>   libswscale      5.  2.100 /  5.  2.100
+>   libswresample   3.  2.100 /  3.  2.100
+>   libpostproc    55.  2.100 / 55.  2.100
+> [matroska,webm @ 0000006e35efa880] Format matroska,webm detected only
+> with low score of 1, misdetection possible!
+> [matroska,webm @ 0000006e35efa880] Read error at pos. 1 (0x1)
+> [matroska,webm @ 0000006e35efa880] EBML header parsing failed
+> F:\american.vandal.s02e04.german.dl.1080p.web.x264-bigint.mkv: Invalid
+> data found when processing input
